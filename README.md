@@ -1,5 +1,5 @@
 # Analizador-Lexico-Completo
-# Descripción 
+# ** Descripción ** 
 Genera un analizador léxico utilizando todos los símbolos léxicos.
 
 # Evidencia:
